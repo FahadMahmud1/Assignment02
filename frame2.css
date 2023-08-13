@@ -77,3 +77,18 @@ footer p {
     padding: 10px;
     text-align: center;
 }
+
+.contact {
+    margin-top: 200px;
+}
+
+.form {
+    margin-bottom: 12px;
+    padding: 10px;
+}
+
+#submit {
+    background-color: #001c6a;
+    color: white;
+    border-radius: 8px;
+}
